@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/cloudfoundry/health_manager.png)](https://travis-ci.org/cloudfoundry/health_manager)
 [![Code Climate](https://codeclimate.com/github/cloudfoundry/health_manager.png)](https://codeclimate.com/github/cloudfoundry/health_manager)
 
-# HealthManager 2.0
+# HealthManager 2.0.1
 
 Health Manager monitors the state of the applications and ensures that started
 applications are indeed running, their versions and number of
